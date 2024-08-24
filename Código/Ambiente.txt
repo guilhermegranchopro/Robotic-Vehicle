@@ -1,0 +1,8 @@
+Tamanho da janela de simulacao sugerida: 
+800 600
+Localizacao dos objectos: 
+Bush Rectangle(Point(20,10), Point(25,15)) 
+Grass Rectangle(Point(60,80), Point(65,85)) 
+Stone Circle(Point(50,50),4) 
+Bush Rectangle(Point(70,25),Point(80,35))
+...
